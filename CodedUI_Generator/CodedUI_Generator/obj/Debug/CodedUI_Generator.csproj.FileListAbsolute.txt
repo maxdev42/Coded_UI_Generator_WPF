@@ -1,0 +1,15 @@
+C:\Users\Maxence\source\repos\CodedUI_Generator\CodedUI_Generator\bin\Debug\CodedUI_Generator.exe.config
+C:\Users\Maxence\source\repos\CodedUI_Generator\CodedUI_Generator\bin\Debug\CodedUI_Generator.exe
+C:\Users\Maxence\source\repos\CodedUI_Generator\CodedUI_Generator\bin\Debug\CodedUI_Generator.pdb
+C:\Users\Maxence\source\repos\CodedUI_Generator\CodedUI_Generator\obj\Debug\CodedUI_Generator.csprojResolveAssemblyReference.cache
+C:\Users\Maxence\source\repos\CodedUI_Generator\CodedUI_Generator\obj\Debug\MainWindow.g.cs
+C:\Users\Maxence\source\repos\CodedUI_Generator\CodedUI_Generator\obj\Debug\App.g.cs
+C:\Users\Maxence\source\repos\CodedUI_Generator\CodedUI_Generator\obj\Debug\CodedUI_Generator_MarkupCompile.cache
+C:\Users\Maxence\source\repos\CodedUI_Generator\CodedUI_Generator\obj\Debug\CodedUI_Generator_MarkupCompile.lref
+C:\Users\Maxence\source\repos\CodedUI_Generator\CodedUI_Generator\obj\Debug\MainWindow.baml
+C:\Users\Maxence\source\repos\CodedUI_Generator\CodedUI_Generator\obj\Debug\CodedUI_Generator.g.resources
+C:\Users\Maxence\source\repos\CodedUI_Generator\CodedUI_Generator\obj\Debug\CodedUI_Generator.Properties.Resources.resources
+C:\Users\Maxence\source\repos\CodedUI_Generator\CodedUI_Generator\obj\Debug\CodedUI_Generator.csproj.GenerateResource.Cache
+C:\Users\Maxence\source\repos\CodedUI_Generator\CodedUI_Generator\obj\Debug\CodedUI_Generator.csproj.CoreCompileInputs.cache
+C:\Users\Maxence\source\repos\CodedUI_Generator\CodedUI_Generator\obj\Debug\CodedUI_Generator.exe
+C:\Users\Maxence\source\repos\CodedUI_Generator\CodedUI_Generator\obj\Debug\CodedUI_Generator.pdb
